@@ -1,0 +1,12 @@
+{
+  "name": "noobiecodes",
+  "version": "1.0.0",
+  "description": "this package consists of all the codes that a beginner is expected to know.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aryan",
+  "license": "ISC"
+}
